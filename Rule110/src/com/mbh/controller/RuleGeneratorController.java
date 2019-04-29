@@ -25,7 +25,7 @@ public class RuleGeneratorController {
   private RuleOneHundredTen ruleOneHundred = new RuleOneHundredTen();
 
   /**
-   * This method generate (maxSize) generation(s)
+   * This method generates (maxSize) generation(s)
    * 
    * @param generation
    * @param maxSize
